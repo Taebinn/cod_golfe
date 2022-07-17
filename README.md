@@ -1,4 +1,4 @@
-Ecercício do módulo JavaScript Básico da certificação Algoritmos e estruturas de dados em JavaScript na FreeCodeCamp
+Exercício interessante do módulo JavaScript Básico da certificação Algoritmos e estruturas de dados em JavaScript na FreeCodeCamp
 
 Descrição:
 
